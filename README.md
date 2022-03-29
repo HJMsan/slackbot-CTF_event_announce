@@ -2,7 +2,7 @@
 
 This is a tool that is automating the announcement of CTF for every week. You have to configure a slack app and prepare a server to deploy this python app. 
 
-# conguration
+# configuration
 [Here](https://api.slack.com/apps) is the link for configuration of slack bot.
 1. Click "Create New App".
 2. Install the new app to your own workspace
