@@ -15,7 +15,7 @@ This is a tool that is automating the announcement of CTF for every week. You ha
    * mpim: read, write
 4. Write "Bot User OAuth Token" to .env instead of "your_slack_bot_token".
 5. Click "Socket Mode" and Enable socket mode. 
-6. Write App Token to .env instead of "your_slack_bot_token"
+6. Write App Token to .env instead of "your_slack_app_token"
 7. Run ` python3 run.py` on your server  (You may have to configure .env as a environment variables before running)
 
 # Function
