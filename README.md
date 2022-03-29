@@ -20,7 +20,7 @@ This is a tool that is automating the announcement of CTF for every week. You ha
 
 # Function
 Announcements of the week are made every Thursday 12:00(JST). The interface is like below: 
-![interface](/slackbot-CTF_event_announce/interface.png)
+![interface](/interface.png)
 
 * Title: Name of the CTF with the official link. 
 * Duration(JST)
