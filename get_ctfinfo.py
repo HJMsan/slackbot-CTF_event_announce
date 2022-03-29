@@ -25,7 +25,7 @@ def convert_post_format(title, url, start, finish, ctftime_url, weight, format1)
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": f"*期間*\n{start['month']}/{start['day']}({get_day(start)}) {start['hour']}:{start['minute']} ～ {finish['month']}/{finish['day']}({get_day(finish)}) {finish['hour']}:{finish['minute']}"
+                "text": f"*Duration*\n{start['month']}/{start['day']}({get_day(start)}) {start['hour']}:{start['minute']} ～ {finish['month']}/{finish['day']}({get_day(finish)}) {finish['hour']}:{finish['minute']}"
             }
         },
         {
